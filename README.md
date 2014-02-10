@@ -18,15 +18,15 @@ So that I can, eventually, get a rating on a movie.
 
 As a visitor/unregistered user 
 I would like to sign up  
-So I perform all the wonderful features of this app.
+So I use all the wonderful features of this app.
 
 As registered user
 I would like to sign in.
 So I can manage my movies.
 
 As a signed in user  
-I would like to be able to add my movies.  
-So that we can build up a set of movies to rate.  
+I would like to be able to add to my set of movies.  
+So I can rate these movies.
 
 As a signed in user  
 I would like to be able to rate movies  
