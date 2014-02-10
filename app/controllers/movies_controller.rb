@@ -12,7 +12,7 @@ class MoviesController < ApplicationController
 		if @movie.save
 			redirect_to movies_path
 		else
-			render :new
+			render new_movies_path, error: "Could not create the movie"
 		end
 	end
 
